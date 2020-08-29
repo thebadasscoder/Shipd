@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "@vue/cli-plugin-babel": "4.1.1",
-    "sass": "1.26.10",
-    "vue": "^2.6.11"
+    "css": "3.0.0",
+    "vue": "2.6.12"
   },
   "devDependencies": {
     "@vue/cli-plugin-eslint": "4.1.1",

@@ -23,6 +23,7 @@ export default {
   display: flex;
   align-items: center;
 }
+
 #navigation-logo {
   width: auto;
   height: 30px;
@@ -35,7 +36,8 @@ export default {
   cursor: pointer;
   outline: none;
   overflow: hidden;
-  margin-left: 100px;
+  margin: 0;
+  margin-left: 50px;
 }
 
 .navigation-button-two {
@@ -46,21 +48,21 @@ export default {
   outline: none;
   overflow: hidden;
   margin: 50px;
-  margin-left: 100px;
+  margin-left: 50px;
 }
 
 .navigation-button-two:hover ~ hr {
-  margin-left: 25%;
+  margin-left: auto;
 }
 
 hr {
   height: 4px;
-  width: 90px;
-  margin-left: -280px;
+  width: 70px;
+  margin-left: -215px;
   margin-top: 40px;
   background: #F65335;
   border: none;
-  transition: 3s ease-in-out;
+  transition: 2s ease-in-out;
 }
 </style>
 
