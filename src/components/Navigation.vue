@@ -50,7 +50,7 @@ export default {
 }
 
 .navigation-button-two:hover ~ hr {
-  margin-left: 0%;
+  margin-left: 25%;
 }
 
 hr {
@@ -58,7 +58,6 @@ hr {
   width: 90px;
   margin-left: -280px;
   margin-top: 40px;
-  /* margin: 0; */
   background: #F65335;
   border: none;
   transition: 3s ease-in-out;
